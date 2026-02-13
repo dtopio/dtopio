@@ -7,8 +7,8 @@ Interested in backend systems, UI/UX, and scalable architecture.
 ---
 
 ## Tech Stack
-
-<table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+<div align="center">
+  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
   <td width="50%" valign="top" style="padding:0;">
 
@@ -47,7 +47,7 @@ Interested in backend systems, UI/UX, and scalable architecture.
   </td>
   </tr>
 </table>
-
+</div>
 
 ---
 
