@@ -10,7 +10,7 @@ Interested in backend systems, UI/UX, and scalable architecture.
 
 <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
   <tr>
-    <td width="65%" valign="top" style="padding:0;">
+  <td width="50%" valign="top" style="padding:0;">
 
   <h3>Languages</h3>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" />
@@ -36,15 +36,15 @@ Interested in backend systems, UI/UX, and scalable architecture.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" />
 
-</td>
+  </td>
 
-<td width="35%" valign="top" align="right" style="padding:0;">
+  <td width="50%" valign="top" align="right" style="padding:0;">
   <img
     src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical"
     style="display:block; width:100%; height:auto;"
     alt="Quote"
   />
-</td>
+  </td>
   </tr>
 </table>
 
