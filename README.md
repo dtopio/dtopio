@@ -59,7 +59,7 @@ Interested in backend systems, UI/UX, and scalable architecture.
 <tr>
 <td>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dtopio&theme=material-palenight&hide_border=false" height="250"/>
+<img src="https://streak-stats.demolab.com?user=dtopio&theme=material-palenight&hide_border=false" height="250"/>
 
 </td>
 
