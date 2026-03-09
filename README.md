@@ -63,11 +63,6 @@ Interested in backend systems, UI/UX, and scalable architecture.
 
 </td>
 
-<td>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=dtopio&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</td>
 
 </tr>
 </table>
