@@ -1,6 +1,6 @@
 # Dan | Full Stack Developer
 
-IT student and developer focused on building modern web applications.  
+Full-stack developer focused on building modern applications.  
 Interested in backend systems, UI/UX, and scalable architecture.
 
 ARCH!
