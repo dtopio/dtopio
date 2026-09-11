@@ -67,7 +67,7 @@ I build modern applications with a focus on developer experience, clean componen
 
 ## GitHub Activity
 
-<!-- <div align="center">
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=dtopio&theme=material-palenight&hide_border=false" height="180" alt="GitHub contribution streak" />
 
 <picture>
@@ -76,8 +76,8 @@ I build modern applications with a focus on developer experience, clean componen
   <img src="https://raw.githubusercontent.com/dtopio/dtopio/output/github-snake-dark.svg" alt="Animated contribution snake" />
 </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dtopio&theme=material-palenight&hide_border=false" alt="GitHub activity graph" />
-</div> -->
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=dtopio&theme=material-palenight&hide_border=false" alt="GitHub activity graph" /> -->
+</div>
 
 <br><br>
 
