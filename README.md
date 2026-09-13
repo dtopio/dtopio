@@ -84,6 +84,6 @@ I build modern applications with a focus on developer experience, clean componen
 <div align="center">
 <img src="./assets/coffee.gif" alt="Animated coffee" width="64" />
 
-<i>Thanks for stopping by — feel free to connect!</i>
+<i>Thanks for stopping by — feel free to connect!!</i>
 
 </div>
